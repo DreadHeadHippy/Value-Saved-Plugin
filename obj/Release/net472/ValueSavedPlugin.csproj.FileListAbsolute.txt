@@ -1,0 +1,12 @@
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSavedPlugin.csproj.AssemblyReference.cache
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSavedPlugin.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSavedPlugin.AssemblyInfoInputs.cache
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSavedPlugin.AssemblyInfo.cs
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSavedPlugin.csproj.CoreCompileInputs.cache
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\bin\Release\net472\ValueSavedPlugin.dll
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\bin\Release\net472\ValueSavedPlugin.pdb
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\bin\Release\net472\Newtonsoft.Json.dll
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\bin\Release\net472\Playnite.SDK.dll
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSav.C06C23CF.Up2Date
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSavedPlugin.dll
+H:\Dakot\VS_Code\Playnite Plugins\Amount Saved\ValueSavedPlugin\obj\Release\net472\ValueSavedPlugin.pdb
