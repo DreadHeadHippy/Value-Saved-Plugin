@@ -20,7 +20,7 @@ namespace ValueSavedPlugin
         public ValueSavedPlugin(IPlayniteAPI api) : base(api)
         {
             gamePrices = LoadPrices();
-            settings = LoadPluginSettings<ValueSavedSettings>() ?? new ValueSavedSettings();
+            settings = LoadPluginSettings<ValueSavedSettings>() ?? new ValueSavedSettings(this);
             Properties = new GenericPluginProperties
             {
                 HasSettings = true

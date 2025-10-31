@@ -5,7 +5,14 @@ namespace ValueSavedPlugin
 {
     public class ValueSavedSettings : ISettings
     {
+        private ValueSavedPlugin plugin;
+
         public double TaxRate { get; set; } = 0.0;
+
+        public ValueSavedSettings(ValueSavedPlugin plugin)
+        {
+            this.plugin = plugin;
+        }
 
         public void BeginEdit()
         {
@@ -19,7 +26,7 @@ namespace ValueSavedPlugin
 
         public void EndEdit()
         {
-            // No action needed
+            plugin.SavePluginSettings(this);
         }
 
         public bool VerifySettings(out List<string> errors)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValueSavedPlugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+761af32e582e46531d2f6240c01c512aa345ecd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValueSavedPlugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValueSavedPlugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
